@@ -1,4 +1,4 @@
-# bluefragments-challenge-100
+# CHALLENGE 100
 
 This repos contain a series of level 100 challenges.
 
