@@ -1,0 +1,13 @@
+Z:\Applications\Dev\CHALLENGE-100\bin\Debug\netcoreapp3.1\CHALLENGE-100.exe
+Z:\Applications\Dev\CHALLENGE-100\bin\Debug\netcoreapp3.1\CHALLENGE-100.deps.json
+Z:\Applications\Dev\CHALLENGE-100\bin\Debug\netcoreapp3.1\CHALLENGE-100.runtimeconfig.json
+Z:\Applications\Dev\CHALLENGE-100\bin\Debug\netcoreapp3.1\CHALLENGE-100.runtimeconfig.dev.json
+Z:\Applications\Dev\CHALLENGE-100\bin\Debug\netcoreapp3.1\CHALLENGE-100.dll
+Z:\Applications\Dev\CHALLENGE-100\bin\Debug\netcoreapp3.1\CHALLENGE-100.pdb
+Z:\Applications\Dev\CHALLENGE-100\obj\Debug\netcoreapp3.1\CHALLENGE-100.csprojAssemblyReference.cache
+Z:\Applications\Dev\CHALLENGE-100\obj\Debug\netcoreapp3.1\CHALLENGE-100.csproj.CoreCompileInputs.cache
+Z:\Applications\Dev\CHALLENGE-100\obj\Debug\netcoreapp3.1\CHALLENGE-100.AssemblyInfoInputs.cache
+Z:\Applications\Dev\CHALLENGE-100\obj\Debug\netcoreapp3.1\CHALLENGE-100.AssemblyInfo.cs
+Z:\Applications\Dev\CHALLENGE-100\obj\Debug\netcoreapp3.1\CHALLENGE-100.dll
+Z:\Applications\Dev\CHALLENGE-100\obj\Debug\netcoreapp3.1\CHALLENGE-100.pdb
+Z:\Applications\Dev\CHALLENGE-100\obj\Debug\netcoreapp3.1\CHALLENGE-100.genruntimeconfig.cache
