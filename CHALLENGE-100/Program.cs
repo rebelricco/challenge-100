@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.CompilerServices;
@@ -50,6 +50,7 @@ namespace CHALLENGE_100
 
         public static string NameShuffle(string name)
         {
+            //Her ville jeg sikre at <name> altid skulle være et Fornavn og et efternavn.
             string[] splitName = name.Split(' ');
             return splitName[1] + " " + splitName[0];
         }
@@ -74,6 +75,7 @@ namespace CHALLENGE_100
 
         public static string MonthName(int monthNum)
         {
+            //Her ville jeg sikre at <monthNum> er imellem 1 og 12
             return new DateTime(1, monthNum, 1).ToString("MMMM");
         }
 
